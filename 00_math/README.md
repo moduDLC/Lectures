@@ -10,3 +10,6 @@ Mathematics in DeepLearning
 
     linear transformation, eigenvalue, eigenvector, least square problem, Principal component analysis
     
+3주 Multivariate Functions
+
+    function, limit, derivative, integral(Riemann integral), partial derivatives, gradient,Jacobian and Hessian matrix
