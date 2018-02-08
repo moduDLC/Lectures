@@ -13,3 +13,6 @@ Mathematics in DeepLearning
 3주 Multivariate Functions
 
     function, limit, derivative, integral(Riemann integral), partial derivatives, gradient,Jacobian and Hessian matrix
+4주 Optimization
+
+    optimization problem, bounded, convex, first order optimization, second order optimization
