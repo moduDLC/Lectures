@@ -48,7 +48,7 @@
 | 딥러닝의 이해  | - **박은수**<br /> - 현) 모두의연구소 Research Director<br /> - "Convolutional Neural Network" 강의 (인하대학교)<br /> - "Python Basics" 강의 (인하대학교)<br /> - "실전! Keras를 이용한 딥러닝 활용" 강의 (삼성멀티캠퍼스) | <img src="./images/photo_park.png" width=100, height=100> |
 | 딥러닝 강화학습 | - **이웅원**<br /> - 현) 제이마플 선임 연구원<br /> - 현) RLCode 리더<br /> - 모두의연구소 *DCULab.* 랩장<br /> - 모두의연구소 *강화학습 스터디* 연구원<br /> - "파이썬과 케라스로 배우는 강화학습" 저자<br /> - "Keras로 시작하는 강화학습 입문" 강의 (패스트캠퍼스)<br /><br />- **양혁렬**<br /> - 한양대학교 컴퓨터 공학, 경영학 전공<br /> - 서울대학교 음악 오디오 연구실 연구원 참여<br /> - RLCode 공동운영<br /> - "파이썬과 케라스로 배우는 강화학습" 공동저자<br /> - 넷마블 몬스터 "딥러닝 기초부터 강화학습 베이스라인까지" 초청강연 진행 |                                          |
 | 딥러닝 영상처리 | - **박은수**<br /> - 딥러닝의 이해 강사로 이력이 동일 합니다. |                                          |
-| *강좌 도우미* | - **이일구**<br /> - 현) 모두의연구소 Research Scientist<br /> - - "실전! TensorFlow로 배우는 딥러닝" 강의 (삼성멀티캠퍼스)<br /> -  모두의연구소 DeepLAB 논문반 멤버| <img src="./images/ilguyi.png" width=100, height=100> |                                         |
+| *강좌 도우미* | - **이일구**<br /> - 현) 모두의연구소 Research Scientist<br /> - "실전! TensorFlow로 배우는 딥러닝" 강의 (삼성멀티캠퍼스)<br /> -  모두의연구소 DeepLAB 논문반 멤버| <img src="./images/ilguyi.png" width=100, height=100> |                                         |
 
 # 
 
