@@ -1,3 +1,12 @@
+# always ignore some extensions
+*.pyc
+*.swp
 
+# OS or Editor floders
 .DS_Store
-.DS_Store
+Thumbs.db
+
+# Data folders
+05_tools/mnist
+05_tools/tensorflow_codes/graphs
+05_tools/tensorflow_codes/.ipynb_checkpoints/
