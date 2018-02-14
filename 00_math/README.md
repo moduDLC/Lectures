@@ -2,7 +2,7 @@
 
 Mathematics in DeepLearning
 
-1주 Elemntary Linear Algebra
+1주 Elementary Linear Algebra
 
     scalar, vector, matrix, tensor, operations, matrix decompositions
     
