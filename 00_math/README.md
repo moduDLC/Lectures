@@ -24,4 +24,4 @@ Mathematics in DeepLearning
     
 6주 Probability and statistics
 
-    functions of random variables, moment generating function, distributions, stochastic processes, bayes' theorem,  
+    functions of random variables, moment generating function, distributions, stochastic processes, bayes' theorem 
