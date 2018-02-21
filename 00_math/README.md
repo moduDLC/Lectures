@@ -13,6 +13,15 @@ Mathematics in DeepLearning
 3주 Multivariate Functions
 
     function, limit, derivative, integral(Riemann integral), partial derivatives, gradient,Jacobian and Hessian matrix
+    
 4주 Optimization
 
     optimization problem, bounded, convex, first order optimization, second order optimization
+    
+5주 Probability 
+
+    elementary logic, set theory,  sigma-algebra, measure, borel set, random variable, moments
+    
+6주 Probability and statistics
+
+    functions of random variables, moment generating function, distributions, stochastic processes, bayes' theorem,  
