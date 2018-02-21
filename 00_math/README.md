@@ -20,7 +20,7 @@ Mathematics in DeepLearning
     
 5주 Probability 
 
-    elementary logic, set theory,  sigma-algebra, measure, borel set, random variable, moments
+    elementary logic, set theory, 𝜎-algebra, measure, borel set, random variable, moments
     
 6주 Probability and statistics
 
