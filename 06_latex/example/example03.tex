@@ -1,0 +1,28 @@
+\documentclass{article}
+
+\begin{document}
+
+"In" its most general form, convolution is an operation on two functions
+of a real-valued argument.
+''To motivate 'the' definition'' of convolution, we start with examples of
+two functions we might use.
+
+Suppose we are tracking the location of a spaceship with a laser sensor.
+Our laser sensor provides a single output $x(t)$, the position of the
+spaceship at time $t$.
+Both $x$ and $t$ are real-valued, i.e., we can get a different reading
+from the laser sensor at any instant in time.\\
+Now suppose that our laser sensor is somewhat noisy.
+To obtain a less noisy estimate of the spaceship’s position,
+we would like to average together several measurements.
+Of course, more recent measurements are more relevant, so we will
+want this to be a weighted average that gives more weight to recent
+measurements.
+\newpage
+We can do this with a weighting function $w(a)$, where a is the age of
+a measurement.
+If we apply such a weighted average operation at every moment, we obtain
+a new function $s$ providing a smoothed estimate of the position
+of the spaceship:
+
+\end{document}

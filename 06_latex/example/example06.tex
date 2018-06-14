@@ -1,0 +1,83 @@
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{kotex}
+
+% define the title
+\author{Il Gu Yi}
+\title{Structure of text}
+\date{\today}
+
+\begin{document}
+% generates the title
+\maketitle
+
+% insert the table of contents
+\tableofcontents
+
+\newpage
+\section{나는 section}
+\label{sec:this}
+그냥 아무말이나 써야겠다.
+이번 section~\ref{sec:this}은 그냥 아무말이나 써야겠다.
+그냥 아무말이나 써야겠다.
+
+\flushleft
+\begin{enumerate}
+  \item You can mix the list environments to your taste:
+  \begin{itemize}
+    \item But it might start to look silly.
+    \item[-] With a dash.
+  \end{itemize}
+  \item Therefore remember:
+  \begin{description}
+    \item[Stupid] things will not
+        become smart because they are in a list.
+    \item[Smart] things, though, can be
+        presented beautifully in a list.
+  \end{description}
+\end{enumerate}
+
+
+
+\newpage
+\section{나도 section}
+\subsection{나도 subsection}
+\subsubsection{나도 subsubsection}
+그냥 아무말이나 써야겠다.
+그냥 아무말이나 써야겠다.
+이전 section~\ref{sec:this}은 page~\pageref{sec:this} 에 있다.
+그냥 아무말이나 써야겠다.
+
+\subsubsection*{나도 subsubsection}
+그냥 아무말이나 써야겠다.
+그냥 아무말이나 써야겠다.
+그냥 아무말이나 써야겠다.
+
+
+\paragraph{나는 paragraph}
+blar blar blar blar blar blar blar blar
+blar blar blar blar blar blar blar blar
+blar blar blar blar blar blar blar blar
+
+\subparagraph{나는 subparagraph}
+blar blar blar blar blar blar blar blar
+blar blar blar blar blar blar blar blar
+blar blar blar blar blar blar blar blar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
